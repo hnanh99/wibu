@@ -2,4 +2,5 @@
 using namespace std;
 main(){
     cout<<"hello, world";
+    cout<<"không có gì";
 }
