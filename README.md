@@ -3,3 +3,4 @@
 ôi bạn ơi
 éc o éc
 haizz chết tiệt cái thằng chết tiệt này
+ghê chưa ghê chưa
